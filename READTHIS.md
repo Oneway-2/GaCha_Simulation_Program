@@ -1,1 +1,0 @@
-아니 이러면 또 contribution 되냐? 도대체 commit 과 contribution의 차이가 뭐냐
