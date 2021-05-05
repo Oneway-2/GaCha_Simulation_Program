@@ -1,3 +1,5 @@
 # GaCha_Simulation_Program
-GaCha simulation program
-#### Copy5 is the lastest
+
+Copy5 is the lastest
+
+GaCha simulation program.
